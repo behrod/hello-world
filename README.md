@@ -1,2 +1,2 @@
 # hello-world
-New to GItr
+New to GItr-Hello Im trying to learn things
